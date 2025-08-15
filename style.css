@@ -17,7 +17,6 @@
 /*   background-color: pink; */
 }
 
-/* good */
 img {
   display: block;
   margin-left: auto;
@@ -29,7 +28,6 @@ img {
 
 body {
     font-family: helvetica;
-/*     font-size: clamp(1.5rem, 12vw + 1rem, 2rem); */
     font-size: 1.2rem;
     text-align: left;
     padding:1em;
@@ -54,7 +52,6 @@ h1 {
     font-weight: normal;
     color: black;
     font-weight: 600;
-    /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;*/
     letter-spacing: 0.12em;
 }
 
@@ -70,14 +67,16 @@ h1 {
 /* Use a media query to add a breakpoint at 800px: */
 @media screen and (max-width: 400px) {
   h1 {
-    font-family: times;
+    font-family: helvetica;
     font-size: 14px;
     text-align: left;
     padding:0em;
     margin-bottom: 3rem;
     overflow: none;
+    font-weight: normal;
+    color: black;
     font-weight: 600;
-    color: #ff8fc7;
+    letter-spacing: 0.12em;
 
   }
 }
