@@ -28,7 +28,7 @@ img {
 
 body {
     font-family: helvetica;
-    font-size: 1.2rem;
+    font-size: 14px;
     text-align: left;
     padding:1em;
     color: #ff4fae;
@@ -37,7 +37,7 @@ body {
 
 .back {
     font-family: helvetica;
-    font-size: 1.2rem;
+    font-size: 14px;
     text-align: left;
     color: #ff4fae;
   }
