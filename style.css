@@ -55,6 +55,10 @@ h1 {
     letter-spacing: 0.12em;
 }
 
+p2 {
+      text-align: right;
+}
+
 /* Use a media query to add a breakpoint at 800px: */
 @media screen and (max-width: 400px) {
   body {
