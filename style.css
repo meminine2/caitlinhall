@@ -59,6 +59,7 @@ h1 {
 
 p2 {
       text-align: right;
+      bottom: 0px;
 }
 
 /* Use a media query to add a breakpoint at 800px: */
